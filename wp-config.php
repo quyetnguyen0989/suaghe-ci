@@ -25,16 +25,16 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 /** The name of the database for WordPress */
  //Added by WP-Cache Manager
 define( 'WPCACHEHOME', '/home/suaghe/domains/suaghemassage.vn/public_html/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'suaghe_sg');
+define('DB_NAME', 'suaghe');
 
 /** MySQL database username */
-define('DB_USER', 'suaghe_sg');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '0987249129');
+define('DB_PASSWORD', 'P@ss0987');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '172.18.0.3');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
